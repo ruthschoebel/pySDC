@@ -10,7 +10,7 @@ sympy>=1.0
 petsc4py>=3.10.0
 mpi4py>=3.0.0
 fenics>=2019.1.0
-mpi4py-fft>=2.0.2
+mpi4py-fft>=2.0.6
 # These packages are used for CI/CD and can be ignored
 pip
 flake8
