@@ -1,5 +1,5 @@
 # These packages are required for pySDC's base functionality, installing those is sufficient to start playing
-numpy>=1.15.4
+numpy>=2.4.6
 scipy>=0.17.1
 dill>=0.2.6
 # These packages are used in examples or for testing, they can be omitted if necessary
